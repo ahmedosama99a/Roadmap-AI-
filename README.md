@@ -75,4 +75,22 @@ A structured study plan for Machine Learning courses with weekly topics, tasks, 
 | 7 | CH05 – Unsupervised Learning (Part 1) <br> - Intro & Roadmap <br> - Unsupervised Learning revisited <br> - Dimensionality Reduction (Intro + Types + PCA) | ✅ Solve MCQ for Part 1 | 🔗 [MaharaTech – Full Course](https://maharatech.gov.eg/course/view.php?id=2139) |
 | 8 | CH05 – Unsupervised Learning (Part 2) <br> - Clustering (Hard/Soft) <br> - K-Means <br> - Semi-supervised learning <br> - Course Summary | ✅ Solve final MCQ <br> ✅ Submit final certificate | 🔗 [MaharaTech – Full Course](https://maharatech.gov.eg/course/view.php?id=2139) |
 
+---
+
+## 📅 Deep Learning Roadmap
+
+| Week | Topics | Tasks | Links |
+|------|--------|-------|-------|
+| 1 | CH01 – Essential Libraries for Deep Learning <br> - NumPy (1D, 2D Arrays, Indexing, Operations) <br> - Matplotlib Basics <br> - SciPy for Image Processing <br> - TensorFlow Intro | ✅ Solve MCQ questions <br> ✅ Try the provided code examples | 🔗 [MaharaTech – Full Course](https://maharatech.gov.eg/course/view.php?id=738) |
+| 2 | CH02 – Building & Training Your First Neural Network <br> - Fashion MNIST Dataset <br> - Implementing DNN with Keras <br> - Performance Improvement | ✅ Apply NN on Colab <br> ✅ Solve MCQ | 🔗 [MaharaTech – Full Course](https://maharatech.gov.eg/course/view.php?id=738) |
+| 3 | CH03 – Implementing More Complex Neural Network for Image Classification <br> - Data Preparation <br> - CNN Visualization <br> - Training & Testing <br> - Saving & Restoring Models | ✅ Submit Assignment (CH03 code file) <br> ✅ Solve MCQ | 🔗 [MaharaTech – Full Course](https://maharatech.gov.eg/course/view.php?id=738) |
+| 4 | CH04 – Hyperparameter Tuning using Grid Search <br> - Batch Size & Epochs <br> - Optimizers <br> - Activation Functions <br> - Dropout <br> - Learning Rate & Momentum | ✅ Try Grid Search <br> ✅ Submit Assignment (CH04) <br> ✅ Solve MCQ | 🔗 [MaharaTech – Full Course](https://maharatech.gov.eg/course/view.php?id=738) |
+| 5 | CH05 – 5 CNN Architectures <br> - LeNet-5 <br> - AlexNet <br> - VGG <br> - Inception <br> - ResNet <br> - Apply VGG16 | ✅ Try applying VGG16 <br> ✅ Solve MCQ | 🔗 [MaharaTech – Full Course](https://maharatech.gov.eg/course/view.php?id=738) |
+| 6 | CH06 – Recurrent Neural Network (Theory) <br> - Vanilla RNN <br> - BPTT <br> - Training Challenges <br> - LSTM <br> - GRU | ✅ Solve MCQ | 🔗 [MaharaTech – Full Course](https://maharatech.gov.eg/course/view.php?id=738) |
+| 7 | CH07 – Project 01: Text Classification <br> - BBC News Dataset <br> - Data Cleaning <br> - Build & Train RNN <br> - Plot History | ✅ Complete the project <br> ✅ Submit code <br> ✅ Solve MCQ | 🔗 [MaharaTech – Full Course](https://maharatech.gov.eg/course/view.php?id=738) |
+| 8 | CH08 – Project 02: Machine Translation <br> - English–French Dataset <br> - Data Preprocessing <br> - Build & Train Model | ✅ Complete the project <br> ✅ Submit code <br> ✅ Solve MCQ | 🔗 [MaharaTech – Full Course](https://maharatech.gov.eg/course/view.php?id=738) |
+| 9 | CH09 – Project 03: Time Series Prediction <br> - Data Cleaning <br> - Build & Train LSTM <br> - Regression with LSTM | ✅ Complete the project <br> ✅ Submit code <br> ✅ Solve MCQ | 🔗 [MaharaTech – Full Course](https://maharatech.gov.eg/course/view.php?id=738) |
+| 10 | CH10 – Project 04: GRU with IMDb <br> - IMDb Dataset <br> - Build & Train GRU Model | ✅ Complete the project <br> ✅ Submit code <br> ✅ Solve MCQ | 🔗 [MaharaTech – Full Course](https://maharatech.gov.eg/course/view.php?id=738) |
+| 11 | CH11 – Project 05: Word Embeddings <br> - Represent Text Data with Word Embeddings | ✅ Complete the project <br> ✅ Submit code <br> ✅ Solve MCQ | 🔗 [MaharaTech – Full Course](https://maharatech.gov.eg/course/view.php?id=738) |
+| 12 | CH12 – Final Project: Sentiment Analysis <br> - IMDb Dataset <br> - Data Cleaning & Preprocessing <br> - Build & Train RNN Model | ✅ Complete final project <br> ✅ Submit project <br> ✅ Get certificate | 🔗 [MaharaTech – Full Course](https://maharatech.gov.eg/course/view.php?id=738) |
 
