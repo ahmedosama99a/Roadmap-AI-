@@ -120,7 +120,7 @@ This roadmap is self-paced; learners can adjust timing according to availability
 
 Author
 
-Created by: Ahmed Osama
+Created by: Ahmed Osama & Ahmed Hassan & Mahmoud Badr
 
 Purpose: Structured and practical roadmap for learners to master Python, Data Analysis, AI, ML, and Deep Learning.
 
