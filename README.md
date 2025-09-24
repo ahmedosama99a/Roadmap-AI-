@@ -9,6 +9,7 @@ This roadmap is designed to take learners from **basic Python programming** to *
 - **AI Weeks 7–8:** Introduction to AI concepts, responsible AI, supervised and unsupervised learning, and universal ML process.  
 - **Machine Learning Weeks 1–8:** Structured ML learning with theory, practical exercises, and assignments covering supervised, unsupervised, and meta algorithms.  
 - **Deep Learning Weeks 1–12:** Learn neural networks, CNNs, RNNs, LSTMs, GRUs, word embeddings, and complete final projects with practical datasets.
+![]("C:\Users\user\Desktop\github\image\WhatsApp Image 2025-09-24 at 21.55.49_efea12c3.jpg")
 
 ---
 
