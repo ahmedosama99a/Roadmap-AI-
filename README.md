@@ -49,3 +49,17 @@
 | 6 | - Comprehensive Project covering: <br> • Python Basics (Variables, Functions, Loops) <br> • NumPy (Arrays, Operations) <br> • Pandas (DataFrame, Cleaning, GroupBy, Merge) <br> • Visualization (Matplotlib & Seaborn) | ✅ Follow the project steps from the videos. <br><br> ✅ Tasks: <br> 1. Import dataset and clean the data. <br> 2. Analyze data using Pandas (`groupby`, `pivot`, `apply`). <br> 3. Perform calculations using NumPy. <br> 4. Create visualizations for the results (Matplotlib + Seaborn). <br> 5. Write a short report in Jupyter Notebook showing analysis steps with screenshots. | 🔗 [Project Playlist – Data Analysis with Python](https://youtube.com/playlist?list=PLaKH4x6WxzvLRDWdyrsw5CtKTwALq-) |
 
 ---
+
+## 📅 Week 7 – Introduction to AI
+
+| Week | Topics | Tasks | Links |
+|------|--------|-------|-------|
+| 7 | - Module 01: What is AI? <br> - Module 02: AI is not magic, it is just Maths <br> - Module 03: Uses of AI <br> - Module 04: Responsible AI <br> - Module 05: AI, Jobs and Me | ✅ Complete all modules (01 → 05) <br> ✅ Solve the MCQ for each module <br> ✅ Submit the final certificate | 🔗 [MaharaTech – AI Course](https://maharatech.gov.eg/course/view.php?id=1619) |
+
+---
+
+## 📅 Week 8 – Machine Learning Fundamentals
+
+| Week | Topics | Tasks | Links |
+|------|--------|-------|-------|
+| 8 | - CH01: Introduction to AI <br> - CH02: Supervised Learning <br> - CH03: Universal ML process <br> - CH04: ML Meta Algorithms <br> - CH05: Unsupervised Learning | ✅ Complete all modules (CH01 → CH05) <br> ✅ Solve all MCQ questions <br> ✅ Submit the final certificate | 🔗 [MaharaTech – ML Fundamentals](https://maharatech.gov.eg/) |
