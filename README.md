@@ -105,3 +105,21 @@ A structured study plan for Machine Learning courses with weekly topics, tasks, 
 | 10 | CH10 – Project 04: GRU with IMDb <br> - IMDb Dataset <br> - Build & Train GRU Model | ✅ Complete the project <br> ✅ Submit code <br> ✅ Solve MCQ | 🔗 [MaharaTech – Full Course](https://maharatech.gov.eg/course/view.php?id=738) |
 | 11 | CH11 – Project 05: Word Embeddings <br> - Represent Text Data with Word Embeddings | ✅ Complete the project <br> ✅ Submit code <br> ✅ Solve MCQ | 🔗 [MaharaTech – Full Course](https://maharatech.gov.eg/course/view.php?id=738) |
 | 12 | CH12 – Final Project: Sentiment Analysis <br> - IMDb Dataset <br> - Data Cleaning & Preprocessing <br> - Build & Train RNN Model | ✅ Complete final project <br> ✅ Submit project <br> ✅ Get certificate | 🔗 [MaharaTech – Full Course](https://maharatech.gov.eg/course/view.php?id=738) |
+
+---
+
+Notes
+
+✅ Tasks include completing video lectures, solving MCQs, writing programs, and submitting assignments/projects.
+
+🔗 All links point to free online resources from MaharaTech and YouTube.
+
+This roadmap is self-paced; learners can adjust timing according to availability.
+
+Author
+
+Created by: Ahmed Osama
+
+Purpose: Structured and practical roadmap for learners to master Python, Data Analysis, AI, ML, and Deep Learning.
+
+GitHub Ready: Can be directly used as a README for a repository with resources, links, and weekly tasks.
