@@ -40,4 +40,12 @@
 |------|--------|-------|-------|
 | 5 | - Introduction to Data Analysis with Python <br> - Data Analysis (loc, apply, np.where, to_csv, to_excel) <br> - value_counts, groupby, pivot_table <br> - Visualization by Python (plot) <br> - Matplotlib Basics <br> - Seaborn Basics | ✅ Complete the related parts of the videos. <br><br> ✅ Write programs: <br> 1. Import a dataset (e.g., a simple CSV for students). <br> 2. Try `loc`, `apply`, and `np.where` on columns. <br> 3. Save a new version of the dataset with `to_csv` and `to_excel`. <br> 4. Use `value_counts` to calculate frequency of values. <br> 5. Apply `groupby` and `pivot_table` to find mean/sum of columns. <br> 6. Create visualizations using Pandas `plot`. <br> 7. Try Matplotlib: line, bar, pie charts. <br> 8. Try Seaborn: scatterplot, barplot, heatmap. | [Intro](https://youtu.be/AwJgraHmm4g?si=9hBQGwqOe2Wh2vea) <br> [Data Analysis – loc/apply/np.where/to_csv/to_excel](https://youtu.be/yMjCTzeXxhw?si=RTfuSq86_HGahJcn) <br> [value_counts / groupby / pivot_table](https://youtu.be/rS5STs8THsc?si=62Ax2jp6YnD1-YQR) <br> [Visualization by Python – plot](https://youtu.be/0GHSXwPHV6U?si=bDEuzjanEd8uaziE) <br> [Matplotlib Basics](https://youtu.be/gElp7fy9Nk4?si=MXlA0wsEmacDW5nC) <br> [Seaborn Basics](https://youtu.be/RwO5bXF1-xY?si=c-Ar4Gep45mVBmCt) |
 
+---
 
+## 📅 Week 6 – Comprehensive Data Analysis Project
+
+| Week | Topics | Tasks | Links |
+|------|--------|-------|-------|
+| 6 | - Comprehensive Project covering: <br> • Python Basics (Variables, Functions, Loops) <br> • NumPy (Arrays, Operations) <br> • Pandas (DataFrame, Cleaning, GroupBy, Merge) <br> • Visualization (Matplotlib & Seaborn) | ✅ Follow the project steps from the videos. <br><br> ✅ Tasks: <br> 1. Import dataset and clean the data. <br> 2. Analyze data using Pandas (`groupby`, `pivot`, `apply`). <br> 3. Perform calculations using NumPy. <br> 4. Create visualizations for the results (Matplotlib + Seaborn). <br> 5. Write a short report in Jupyter Notebook showing analysis steps with screenshots. | 🔗 [Project Playlist – Data Analysis with Python](https://youtube.com/playlist?list=PLaKH4x6WxzvLRDWdyrsw5CtKTwALq-) |
+
+---
