@@ -31,7 +31,7 @@ This roadmap is designed to take learners from **basic Python programming** to *
 
 ---
 
-## 📅 Week 5 – Data Analysis & Visualization with Python
+## 📅 Week 3 – Data Analysis & Visualization with Python
 
 | Week | Topics | Tasks | Links |
 |------|--------|-------|-------|
@@ -39,7 +39,7 @@ This roadmap is designed to take learners from **basic Python programming** to *
 
 ---
 
-## 📅 Week 6 – Comprehensive Data Analysis Project
+##  Data Analysis Project
 
 | Week | Topics | Tasks | Links |
 |------|--------|-------|-------|
@@ -47,13 +47,6 @@ This roadmap is designed to take learners from **basic Python programming** to *
 
 ---
 
-## 📅 Week 7 – Introduction to AI
-
-| Week | Topics | Tasks | Links |
-|------|--------|-------|-------|
-| 7 | - Module 01: What is AI? <br> - Module 02: AI is not magic, it is just Maths <br> - Module 03: Uses of AI <br> - Module 04: Responsible AI <br> - Module 05: AI, Jobs and Me | ✅ Complete all modules (01 → 05) <br> ✅ Solve the MCQ for each module <br> ✅ Submit the final certificate | 🔗 [MaharaTech – AI Course](https://maharatech.gov.eg/course/view.php?id=1619) |
-
----
 
 # 📘 Machine Learning Roadmap
 
