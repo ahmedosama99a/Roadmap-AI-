@@ -4,11 +4,11 @@
 
 This roadmap is designed to take learners from **basic Python programming** to **Data Analysis, Artificial Intelligence, Machine Learning, and Deep Learning**. Each week focuses on a specific topic, with clear tasks and practical exercises to consolidate learning. All resources are linked for easy access.
 
-- **Python Weeks 1–2:** Build foundational programming skills, learn data structures, loops, functions, and basic syntax.  
-- **NumPy & Pandas Weeks 3–6:** Learn numerical computing, data manipulation, and visualization with Python libraries. Includes hands-on projects.  
-- **AI Weeks 7–8:** Introduction to AI concepts, responsible AI, supervised and unsupervised learning, and universal ML process.  
-- **Machine Learning Weeks 1–8:** Structured ML learning with theory, practical exercises, and assignments covering supervised, unsupervised, and meta algorithms.  
-- **Deep Learning Weeks 1–12:** Learn neural networks, CNNs, RNNs, LSTMs, GRUs, word embeddings, and complete final projects with practical datasets.
+- **Python Weeks 1:** Build foundational programming skills, learn data structures, loops, functions, and basic syntax.  
+- **NumPy & Pandas Weeks 2:** Learn numerical computing, data manipulation, and visualization with Python libraries. Includes hands-on projects.  
+- **Data Analysis & Visualization with Python:** Introduction to Data Analysis with Python.  
+- **Machine Learning:** Structured ML learning with theory, practical exercises, and assignments covering supervised, unsupervised, and meta algorithms.  
+- **Deep Learning Weeks:** Learn neural networks, CNNs, RNNs, LSTMs, GRUs, word embeddings, and complete final projects with practical datasets.
   
 ![](image/ai.jpg)
 
